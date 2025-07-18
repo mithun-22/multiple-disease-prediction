@@ -1,4 +1,4 @@
-##🩺 Multiple Disease Prediction System
+*🩺 Multiple Disease Prediction System*
   
   This project is a Streamlit web application that allows users to predict the likelihood of Kidney Disease, Liver Disease, and Parkinson’s Disease using pre-trained Machine Learning models. The models are built with RandomForestClassifier, scaled using StandardScaler, and saved as .pkl files for quick inference.
 
